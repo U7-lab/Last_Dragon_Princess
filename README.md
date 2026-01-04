@@ -1,4 +1,4 @@
-##🛡️ Last Dragon Princess: The Pixel Odyssey ⚔️
+## 🛡️ Last Dragon Princess: The Pixel Odyssey ⚔️
 
 🚀 Play the Game
 Ready to enter the simulation? You can download the latest executable directly from the Releases page.
@@ -7,7 +7,7 @@ Ready to enter the simulation? You can download the latest executable directly f
 
 *Note:* Look for the `.exe` file under the *Assets* section of the latest Tag/Release! 🎮
 
-📸 Gallery
+## 📸 Gallery
 <p align="center">
   <img src="screenshots/pic1.png" width="600" alt="Knight's Debug Gameplay">
   <br>
@@ -20,7 +20,7 @@ This Game is a vibrant, 8-bit platformer where retro charm meets a modern meta-t
   <br>
 </p>
 
-🌟 Game Overview
+## 🌟 Game Overview
 Embark on a journey through a lush, tropical landscape as a brave little knight. This isn't just another walk in the park—you'll need precision, timing, and a bit of "debugging" luck to survive the traps and enemies lurking in the pixels.
 
 <p align="center">
@@ -28,7 +28,7 @@ Embark on a journey through a lush, tropical landscape as a brave little knight.
   <br>
 </p>
 
-✨ Key Features
+## ✨ Key Features
 🕹️ Classic Action: Tight, challenging 2D platforming mechanics.
 🎨 Retro Vibes: Beautifully crafted pixel art with swaying palms.
 👾 Deadly Foes: Battle jumpy slimes 🟢 and phantom wizards 🧙‍♂️.
@@ -40,14 +40,14 @@ Embark on a journey through a lush, tropical landscape as a brave little knight.
   <br>
 </p>
 
-🎮 How to Play
+## 🎮 How to Play
 
 | Action | Control |
 | :--- | :--- |
 | **Move** | `Arrow Keys` |
 | **Jump** | `Spacebar` |
 
-🛠️ Technical Stack
+## 🛠️ Technical Stack
 *Language:* [GDScript]
 *Engine/Framework:* [Godot]
 *Art Tools:* [Pixel Art]
