@@ -1,6 +1,6 @@
 ## 🛡️ Last Dragon Princess: The Pixel Odyssey ⚔️
 
-### 🚀 Play the Game
+## 🚀 Play the Game
 Ready to enter the simulation? You can download the latest executable directly from the Releases page.
 
 [📦 Download (Windows.exe)](https://github.com/U7-lab/Last_Dragon_Princess/releases/tag/v1.0)
