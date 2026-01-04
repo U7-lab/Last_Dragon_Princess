@@ -1,4 +1,4 @@
-🛡️ Last Dragon Princess: The Pixel Odyssey ⚔️
+###🛡️ Last Dragon Princess: The Pixel Odyssey ⚔️
 
 🚀 Play the Game
 Ready to enter the simulation? You can download the latest executable directly from the Releases page.
@@ -7,7 +7,7 @@ Ready to enter the simulation? You can download the latest executable directly f
 
 *Note:* Look for the `.exe` file under the *Assets* section of the latest Tag/Release! 🎮
 
-## 📸 Gallery
+📸 Gallery
 <p align="center">
   <img src="screenshots/pic1.png" width="600" alt="Knight's Debug Gameplay">
   <br>
