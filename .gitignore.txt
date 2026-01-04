@@ -1,0 +1,6 @@
+.import/
+.export/
+.godot/
+*.exe
+*.pck
+
