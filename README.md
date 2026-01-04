@@ -7,6 +7,13 @@ Ready to enter the simulation? You can download the latest executable directly f
 
 *Note:* Look for the `.exe` file under the *Assets* section of the latest Tag/Release! 🎮
 
+## 📸 Gallery
+<p align="center">
+  <img src="screenshots/pic1.png" width="600" alt="Knight's Debug Gameplay">
+  <br>
+  <i>Exploring the tropical heights and battling pixel-art foes.</i>
+</p>
+
 This Game is a vibrant, 8-bit platformer where retro charm meets a modern meta-twist. Navigate a pixel-perfect world, dodge squishy slimes, and outsmart mysterious wizards to uncover the secrets hidden in the code.
 
 🌟 Game Overview
