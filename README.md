@@ -48,6 +48,7 @@ Embark on a journey through a lush, tropical landscape as a brave little knight.
 | **Jump** | `Spacebar` |
 
 ## 🛠️ Technical Stack
-*Language:* [GDScript]
-*Engine/Framework:* [Godot]
-*Art Tools:* [Pixel Art]
+
+**Language:** GDScript  
+**Engine:** Godot  
+**Art Tools:** Pixel Art
